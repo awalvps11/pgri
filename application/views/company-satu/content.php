@@ -1,8 +1,13 @@
 
 
-<div style="margin-bottom:80px">
-	<?php include "slide.php"; ?>
-</div><!-- /.container -->
+	<div class="row">
+		<div class="col-12">
+			<div style="margin-bottom:80px">
+				<?php include "slide.php"; ?>
+			</div><!-- /.container -->
+		</div>
+	</div>
+
 
 
 <div class="container">
