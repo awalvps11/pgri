@@ -80,8 +80,8 @@ $linksatu = $this->model_utama->view_where_ordering_limit('link', array('id_pare
 				<div class="featured-box featured-box-tertiary featured-box-effect-2" style="height: 206.2px;">
 					<div class="box-content">
 						<i class="icon-featured fa fa-newspaper-o"></i>
-						<h4>MEDIA</h4>
-						<a href="#" class="btn btn-tertiary mr-xs mb-lg">Klik Disini</a>
+						<h4>Area Download</h4>
+						<a href="https://mappedeceng.my.id/pgri/download" class="btn btn-tertiary mr-xs mb-lg">Klik Disini</a>
 					</div>
 				</div>
 			</div>
@@ -89,8 +89,8 @@ $linksatu = $this->model_utama->view_where_ordering_limit('link', array('id_pare
 				<div class="featured-box featured-box-quaternary featured-box-effect-2" style="height: 206.2px;">
 					<div class="box-content">
 						<i class="icon-featured fa fa-users"></i>
-						<h4>KARIR</h4>
-						<a href="#" class="btn btn-tertiary mr-xs mb-lg">Klik Disini</a>
+						<h4>Anggota</h4>
+						<a href="https://sik.pgri.or.id" class="btn btn-tertiary mr-xs mb-lg">Klik Disini</a>
 					</div>
 				</div>
 			</div>
