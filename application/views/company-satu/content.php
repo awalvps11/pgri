@@ -150,11 +150,11 @@ $linksatu = $this->model_utama->view_where_ordering_limit('link', array('id_pare
 				foreach ($bannerhome->result_array() as $ban2){ 
 					if($no == 0){
 					?>
-						 <div class="item active"><a href="http://www.pertaminafoundation.org/" target ="_blank"><img src="asset/foto_iklantengah/<?php echo $ban2['gambar']; ?>" alt="<?php echo $ban2['judul'];?>" caption="false" width="1288" height="627" /></a></div>
+						 <div class="item active"><a href="https://pgri-luwuutara.or.id/" target ="_blank"><img src="asset/foto_iklantengah/<?php echo $ban2['gambar']; ?>" alt="<?php echo $ban2['judul'];?>" caption="false" width="1288" height="627" /></a></div>
 					<?php
 					}else{
 					?>
-						<div class="item "><a href="https://www.mypertamina.id/" target ="_blank"><img src="asset/foto_iklantengah/<?php echo $ban2['gambar']; ?>" alt="<?php echo $ban2['judul']; ?>" caption="false" width="1288" height="627" /></a></div>
+						<div class="item "><a href="https://pgri-luwuutara.or.id/" target ="_blank"><img src="asset/foto_iklantengah/<?php echo $ban2['gambar']; ?>" alt="<?php echo $ban2['judul']; ?>" caption="false" width="1288" height="627" /></a></div>
 					<?php
 					}
 					$no++;
