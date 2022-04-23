@@ -27,7 +27,7 @@
 
 											<div class="post-content">
 
-												<h4><a href="../../pgri/berita/detail/<?php echo $row['judul_seo']?>"><?php echo $row['judul']; ?></a></h4>
+												<h4><a href="../../berita/detail/<?php echo $row['judul_seo']?>"><?php echo $row['judul']; ?></a></h4>
 												<p><?php echo $isi;?></p>
 
 											</div>
